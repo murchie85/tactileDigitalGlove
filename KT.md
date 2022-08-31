@@ -18,8 +18,7 @@
 | Glove for people who became deafblind later in life | English knowledge assumed | 
 | Raspberry Pi chosen  | Python the default language | 
 | Ability for glove to help interaction with careers | Front End GUI code to integrate with text messaging or web apps| 
-| `Open and available` to every scientist and developer to work on   | Open source project, no IP projection or council/ investor funding possible. Focus on community building  | 
-| 
+| `Open and available` to every scientist and developer to work on   | Open source project, no IP projection or council/ investor funding possible. Focus on community building  |
 | `Open Fremium model` | `Closed source`, Ip protection, Funding possible balance between community awareness, contributions and innovation|
 | `commercial model` | `Closed source`, Ip protection, Funding possible. Full self-control over project |  
 
